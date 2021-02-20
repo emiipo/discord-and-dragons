@@ -1,0 +1,1 @@
+{"Type": "Condition", "Position": [2, 2], "Condition": "Level", "Level": 1, "True":"Arthas: Hey good to see you $player_name!\nArthas: Well I guess that's it now! I gotta run so see you around. Don't die out there alright?\n\n(Now you are free to enjoy your adventure!)", "False": "Arthas: Seems you ain't Level 1. Move around more and come back when you are Level 1!", "Next": 3}

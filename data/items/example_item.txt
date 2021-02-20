@@ -1,0 +1,1 @@
+{"Name": "Training Sword", "Type": "Weapon", "Description": "A basic sword used for training purposes.", "Damage": 5, "Price":15}

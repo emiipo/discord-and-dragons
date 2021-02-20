@@ -1,0 +1,1 @@
+{"Name": "Health Potion", "Type": "Effect", "Effect":"Heal", "Target": "Player", "Description": "A basic health potion +5hp.", "Heal Amount": 5, "Buy Price":7, "Sell Price":5}

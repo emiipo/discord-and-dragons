@@ -1,0 +1,1 @@
+{"Name": "Poison", "Type": "Effect", "Effect":"Damage", "Target": "Enemy", "Description": "A basic pooison -7hp.", "Damage Amount": 7, "Buy Price":10, "Sell Price":8}
